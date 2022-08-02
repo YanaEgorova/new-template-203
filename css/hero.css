@@ -82,21 +82,6 @@
     border-bottom: .5rem solid var(--third-brand-color);
     border-top: .5rem solid var(--third-brand-color);
 }
-.question::before {
-    display: block;
-    content: '';
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-image: url('https://img.freepik.com/free-vector/wave-textures-white-background-vector_53876-60286.jpg?t=st=1656619214~exp=1656619814~hmac=6c0d82100c44a821125d42035d9da49d45671796f9e07793e79c1ca9b42d3414&w=2000');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    z-index: -1;
-    opacity: .3;
-}
 .question .sub-title {
     margin-bottom: 10rem;
 }
