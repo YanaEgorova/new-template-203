@@ -35,7 +35,7 @@
     padding: 15rem 0;
     text-align: center;
     position: relative;
-    background-image: linear-gradient(to bottom, #76d0d2,40%,#ffffff);
+    background-image: linear-gradient(to bottom, var(--third-brand-color),40%,#ffffff);
 }
 .contacts .sub-title {
     margin-bottom: 2rem;
