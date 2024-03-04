@@ -32,7 +32,7 @@
 
 
 .contacts {
-    padding: 15rem 0;
+    padding: 10rem 0;
     text-align: center;
     position: relative;
     background-image: linear-gradient(to bottom, var(--third-brand-color),40%,#ffffff);
@@ -121,7 +121,7 @@
     margin: 0 auto;
 }
 .policy__block--top {
-    margin-bottom: 12rem;
+    /* margin-bottom: 12rem; */
 }
 .policy .text {
     margin-bottom: 3rem;
